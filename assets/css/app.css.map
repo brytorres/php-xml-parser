@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAW;EACP,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,KAAK;;ACHlB,OAAQ;EACJ,UAAU,EAAE,MAAM;;ACDtB,OAAQ;EACJ,UAAU,EAAE,MAAM",
+"sources": ["../sass/layout/_base.scss","../sass/layout/_header.scss","../sass/layout/_footer.scss"],
+"names": [],
+"file": "app.css"
+}
